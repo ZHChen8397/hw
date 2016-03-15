@@ -67,12 +67,14 @@ body
 .SliderBox
 {
   margin-top: 19px;
+  border-radius: 3px;
 }
 
 .SliderImage
 {
   width: 960px;
   height: 500px;
+  border-radius: 3px;
 }
 
 .ContentBlock1
