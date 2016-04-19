@@ -48,3 +48,29 @@ body
 {
   text-align: center;
 }
+
+.articleblock
+{
+  width: 900px;
+  margin-right: 150px;
+  background-color: gray;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+
+.title
+{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.content
+{
+  font-size: 20px;
+  font-family: arial;
+}
+
+#readmore
+{
+  margin-left: 700px;
+}
