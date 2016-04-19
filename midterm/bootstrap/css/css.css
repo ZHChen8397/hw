@@ -91,10 +91,15 @@
 /*new*/
 
 .Photointroduction{
-  margin-left: 15px;
+  margin-left: 165px;
   background-color: #00cfff;
   width: 100px;
   text-align: center;
+}
+
+.margin150{
+  margin-right: 150px;
+  margin-left: 150px;
 }
 
 /*Shadow*/
