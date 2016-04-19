@@ -1,3 +1,8 @@
+body
+{
+  width:1280px;
+  height: 960px;
+}
 
 .logo
 {
@@ -36,7 +41,8 @@
 
 .footer
 {
-  background-color: #fe7701;
+  bottom:0;
+  width:100%;
 }
 
 .copyright
@@ -125,4 +131,22 @@
 {
   width: 300px;
   height: 400px;
+}
+
+.container
+{
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.authortable
+{
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.introduce
+{
+  font-size: 20px;
+  font-weight: bold;
 }
