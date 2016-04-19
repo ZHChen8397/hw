@@ -1,11 +1,50 @@
 body
 {
   margin-left: 150px;
-  margin-right:150px;
+  margin-right: 150px;
 }
 
 .logo
 {
   width: 50px;
   height:auto;
+}
+
+.addphoto
+{
+  float: left;
+  width: 300px;
+  height: 50px;
+  background-color: #fe7701;
+  margin-right: 30px;
+  box-shadow: -5px 5px rgba(165,77,5,0.5);
+  border-radius: 3px;
+}
+
+.add
+{
+  font-size: 12px;
+  font-family: Arial;
+  color: #404040;
+  margin-left: 15px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+
+.imgblock
+{
+  width: 200px;
+  height: 200px;
+  margin-bottom: 10px;
+}
+
+.footer
+{
+  background-color: #fe7701;
+}
+
+.copyright
+{
+  text-align: center;
 }
