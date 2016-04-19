@@ -39,10 +39,21 @@ body
   margin-bottom: 10px;
 }
 
+.fbottom{
+  padding-bottom: 20px;
+}
+
 .footer
 {
+<<<<<<< HEAD
   bottom:0;
   width:100%;
+=======
+  background-color: #fe7701;
+  height: 20px;
+  position: relative;
+  margin-top: -20px;
+>>>>>>> f37e1adf2eb9e8e23454d73c1e052d7c353c7832
 }
 
 .copyright
@@ -104,8 +115,8 @@ body
 }
 
 .margin150{
-  margin-right: 150px;
   margin-left: 150px;
+  margin-right: 150px;
 }
 
 /*Shadow*/
