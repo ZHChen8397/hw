@@ -34,9 +34,16 @@
   margin-bottom: 10px;
 }
 
+.fbottom{
+  padding-bottom: 20px;
+}
+
 .footer
 {
   background-color: #fe7701;
+  height: 20px;
+  position: relative;
+  margin-top: -20px;
 }
 
 .copyright
@@ -98,8 +105,8 @@
 }
 
 .margin150{
-  margin-right: 150px;
   margin-left: 150px;
+  margin-right: 150px;
 }
 
 /*Shadow*/
