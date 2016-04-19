@@ -52,7 +52,7 @@
 {
   width: 900px;
   margin-right: 150px;
-  background-color: gray;
+  background-color: rgba(204,255,249,1);
   border-radius: 3px;
   margin-bottom: 10px;
 }
@@ -154,8 +154,7 @@
   float: left;
 }
 
-.btn-group
+#addphoto
 {
   float: left;
-  margin-right: 10px;
 }
