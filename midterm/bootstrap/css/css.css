@@ -65,6 +65,52 @@
   font-family: arial;
 }
 
+/*new*/
+.articalarea{
+  margin: auto;
+  margin-bottom: 30px;
+  border: black 1.5px solid;
+}
+
+.resetpadding{
+    padding: 0;
+}
+
+.arttitle{
+  border-right: black 1.5px solid;
+}
+
+.firstli{
+  padding-top: 25px;
+}
+
+.sidebar ul li{
+  padding-bottom: 25px;
+}
+
+/*new*/
+
+.Photointroduction{
+  margin-left: 15px;
+  background-color: #00cfff;
+  width: 100px;
+  text-align: center;
+}
+
+/*Shadow*/
+.shadow{
+	border-radius: 3px;
+	-moz-box-shadow: -5px 5px 5px #a5cfff;
+	-webkit-box-shadow: -5px 5px 5px #a5cfff;
+	box-shadow: -5px 5px 5px #a5cfff;
+}
+/*Shadow*/
+
+#articalchange{
+  font-family:DFKai-sb;
+  font-size: 24px;
+}
+
 #readmore
 {
   margin-left: 700px;
